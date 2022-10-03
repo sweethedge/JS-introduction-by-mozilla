@@ -17,3 +17,12 @@ yield를 화살표 함수 내부에서 사용할 수 없습니다.
 명령문이 한 줄을 다 차지할 경우에는 세미콜론이 필요하지 않습니다. 그러나 한 줄에 두 개 이상의 명령문이 필요하다면 반드시 세미콜론으로 구분해야 합니다.
 하지만, 세미콜론이 필요하지 않은 경우라도 항상 세미콜론으로 끝마치는 편이 버그 예방 차원에서 더 좋은 습관이라고 여겨집니다.
 
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Language_Overview
+
+// 대괄호 표기법(bracket notation)
+obj["name"] = "Simon";
+var name = obj["name"];
+// key를 정의하기 위해 변수도 쓸수 있습니다.
+var user = prompt('what is your key?')
+obj[user] = prompt('what is its value?')
+
