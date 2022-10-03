@@ -1,1 +1,0 @@
-# JS-review-courses-by-mozilla
