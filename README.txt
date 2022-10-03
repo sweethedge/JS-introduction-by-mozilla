@@ -1,6 +1,5 @@
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
 
-<<<<<<< HEAD
 참고: return 문은 브라우저에게 함수로부터 나오는 result 변수를 반환하게 함으로써 그 변수를 사용할 수 있게 합니다. 이것은 필수적인 것으로 함수 안에서 정의된 변수는 오직 그 함수 내부에서만 사용 가능하기 때문입니다.
 
 화살표 함수 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions
